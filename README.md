@@ -24,3 +24,12 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="40" width="40"></img>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40" width="40"></img>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" height="40" width="40"></img>
+</p>
+
+### Some projects
+<p align="left">
+<img src="https://media.discordapp.net/attachments/977981539314962443/998658112741441606/20220718_132921.png" "height="40" width="40"></img>
+<img src="https://media.discordapp.net/attachments/977981539314962443/998658112481406986/20220718_133029.png" height="40" width="40"></img>
+</p>
+
+---
