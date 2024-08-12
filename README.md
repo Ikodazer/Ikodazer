@@ -4,11 +4,9 @@
 
 🎂 • 17 years old
 
-🖥️ • Java & JavaScript/HTML/CSS Developer
+🌀 • Abyssal Agony developer
 
-🌀 • Abyssal Agony admin
-
-🏛️ • Teseract Studios founder
+🔰 • Teseract Studios founder
 
 ### On learning
 <p align="left">
