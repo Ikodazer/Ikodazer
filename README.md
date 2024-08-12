@@ -2,11 +2,11 @@
 ---
 🇲🇽 • Mexican
 
-👤 • 15 years old
+🎂 • 17 years old
 
-⚙️ • MC AddOn developer
+🖥️ • Java & JavaScript/HTML/CSS Developer
 
-🌀 • Abyssal Agony founder
+🌀 • Abyssal Agony admin
 
 🏛️ • Teseract Studios founder
 
